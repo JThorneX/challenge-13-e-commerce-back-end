@@ -14,8 +14,11 @@ Backend structure for a e-commerce site using javascript.
 
 npm i to install
 npm start to start
+insomnia to view routes
 
 ### Links
+
+https://drive.google.com/file/d/1w4FxdStWnvEFszwIVfZJZywpGa_Df4gs/view
 
 ### Credits
 
