@@ -12,8 +12,8 @@ Backend structure for a e-commerce site using javascript.
 
 ### Usage
 
-npm i to install
-npm start to start
+npm i to install<br>
+npm start to start<br>
 insomnia to view routes
 
 ### Links
